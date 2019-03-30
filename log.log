@@ -1,0 +1,32 @@
+2019-03-10 07:38:34,434 __________START______
+2019-03-10 07:38:34,622 apres gc =
+2019-03-10 07:38:34,625 Starting new HTTPS connection (1): www.goodreads.com:443
+2019-03-10 07:38:35,126 https://www.goodreads.com:443 "GET /book/show?id=1&key=gOCk7w1mOcYTs97j9BmCkw HTTP/1.1" 200 None
+2019-03-10 07:38:35,144 apres gc.book
+2019-03-10 07:38:35,152 apres book.title
+2019-03-10 07:38:35,156 Starting new HTTP connection (1): www.goodreads.com:80
+2019-03-10 07:38:35,222 http://www.goodreads.com:80 "GET /oauth/request_token HTTP/1.1" 301 115
+2019-03-10 07:38:35,226 Starting new HTTPS connection (1): www.goodreads.com:443
+2019-03-10 07:38:35,310 https://www.goodreads.com:443 "GET /oauth/request_token HTTP/1.1" 401 258
+2019-03-10 07:39:37,713 __________START______
+2019-03-10 07:39:37,890 apres gc =
+2019-03-10 07:39:37,893 Starting new HTTPS connection (1): www.goodreads.com:443
+2019-03-10 07:39:38,328 https://www.goodreads.com:443 "GET /book/show?id=1&key=gOCk7w1mOcYTs97j9BmCkw HTTP/1.1" 200 None
+2019-03-10 07:39:38,346 apres gc.book
+2019-03-10 07:39:38,347 BOKK TITLE : Harry Potter and the Half-Blood Prince (Harry Potter, #6)
+2019-03-10 07:39:38,347 apres book.title
+2019-03-10 07:39:38,349 Starting new HTTP connection (1): www.goodreads.com:80
+2019-03-10 07:39:38,417 http://www.goodreads.com:80 "GET /oauth/request_token HTTP/1.1" 301 115
+2019-03-10 07:39:38,421 Starting new HTTPS connection (1): www.goodreads.com:443
+2019-03-10 07:39:38,517 https://www.goodreads.com:443 "GET /oauth/request_token HTTP/1.1" 401 406
+2019-03-10 07:51:16,040 __________START______
+2019-03-10 07:51:16,221 apres gc =
+2019-03-10 07:51:16,224 Starting new HTTPS connection (1): www.goodreads.com:443
+2019-03-10 07:51:16,718 https://www.goodreads.com:443 "GET /book/show?id=1&key=gOCk7w1mOcYTs97j9BmCkw HTTP/1.1" 200 None
+2019-03-10 07:51:16,735 apres gc.book
+2019-03-10 07:51:16,736 BOKK TITLE : Harry Potter and the Half-Blood Prince (Harry Potter, #6)
+2019-03-10 07:51:16,736 apres book.title
+2019-03-10 07:51:16,739 Starting new HTTP connection (1): www.goodreads.com:80
+2019-03-10 07:51:16,816 http://www.goodreads.com:80 "GET /oauth/request_token HTTP/1.1" 301 115
+2019-03-10 07:51:16,821 Starting new HTTPS connection (1): www.goodreads.com:443
+2019-03-10 07:51:16,920 https://www.goodreads.com:443 "GET /oauth/request_token HTTP/1.1" 401 851
